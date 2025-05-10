@@ -1,16 +1,11 @@
-## Hi there, I'm Jinwei Feng(fengjnw)👋
+## Hi there, I'm Jinwei Feng (fengjnw) 👋
 
-<!--
-**fengjnw/fengjnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+🎓 BSc Computer Science student @ University of London (Goldsmiths)  
+📚 Also pursuing the MITx MicroMasters in Data Science  
+🔬 Interests: Theoretical CS, Cryptography, Algorithms  
 
-
-🎓 Current student at University of London (BSc Computer Science, Goldsmiths)  
-🔬 Interested in: Theoretical CS, Cryptography, Algorithms  
-📚 Also studying MITx MicroMasters in Data Science  
-
-Here you'll find selected coursework projects, personal experiments, and research explorations.
+Here you'll find selected coursework projects, personal experiments, and early research explorations.
 
 > “Stay curious, keep building.”
 
-📫 [fengjnw@gmail.com]
+📫 Contact: fengjnw@gmail.com
