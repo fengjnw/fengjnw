@@ -1,11 +1,10 @@
-## Hi there, I'm Jinwei Feng (fengjnw) 👋
+## Jinwei Feng
 
-🎓 BSc Computer Science student @ University of London (Goldsmiths)  
-📚 Also pursuing the MITx MicroMasters in Data Science  
-🔬 Interests: Theoretical CS, Cryptography, Algorithms  
+BSc Computer Science student at Goldsmiths, University of London  
+Pursuing the MITx MicroMasters in Data Science  
 
-Here you'll find selected coursework projects, personal experiments, and early research explorations.
+Research interests: theoretical computer science, cryptography, algorithms  
 
-> “Stay curious, keep building.”
+Here you’ll find some coursework projects, small side projects, and things I try out along the way. 
 
-📫 Contact: fengjnw@gmail.com
+📫 fengjnw@gmail.com
