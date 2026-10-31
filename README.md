@@ -1,6 +1,8 @@
-## Jinwei Feng
+## Arthur Feng
 
-BSc Computer Science student at Goldsmiths, University of London
+BSc Computer Science graduate from Goldsmiths, University of London
+
+MSc Artificial Intelligence student at University of Edinburgh
 
 Currently exploring: machine learning, cryptography, algorithms, and physics
 
